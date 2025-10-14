@@ -93,7 +93,9 @@ Bot: Generates SQL → Executes → Returns table + summary.
 
 ### ✅ Task 8 – Workflow Automation *(Colab)*
 - Workflow automation using **n8n**.  
-- Alerts, logging, notifications integrated with marketing workflows.  
+- Alerts, logging, notifications integrated with marketing workflows.
+  
+![task-08-my-workflow](https://github.com/user-attachments/assets/130551cb-1d89-4da1-ab0c-1afe76cb19e0)
 
 ---
 
